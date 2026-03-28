@@ -4,7 +4,7 @@
 
 Temporal and Geographic Data Analysis of US Road Accidents (2016-2023)
 
-[**Technical Paper »**](https://drive.google.com/drive/folders/1M9TZ2TuMlnytXEJmEomsqqBsAFcN2OTg?usp=sharing)
+[**Technical Paper »**](https://drive.google.com/file/d/1zLL274hqoCkYknEOS0YWuYJinHiTjbZT/view?usp=sharing)
 
 [Report Bug](https://github.com/feiryrej/road-stats/issues)
 ·
